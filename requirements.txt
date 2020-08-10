@@ -1,0 +1,12 @@
+numpy
+pillow
+tensorflow==1.14.0
+matplotlib
+scikit-learn
+seaborn
+keras
+pyqrcode
+youtube_dl
+ttkthemes
+pandas
+opencv-contrib-python
